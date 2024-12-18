@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&display=swap');
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+    color:#fff;
+    font-family: "Mansalva", serif;
+}
+
+.container{
+    background-image: linear-gradient(to right,rgb(210, 31, 198),rgb(23, 36, 182));
+    background-clip: text;
+    color: transparent;
+}
